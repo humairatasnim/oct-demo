@@ -115,6 +115,10 @@ Navigation
 	border-bottom: 4px solid #203781;
 }
 
+.dropdown:hover > .dropdown-menu {
+	display: block;
+}
+
 .dropdown:hover, li.nav-item.dropdown.position-static.show {
 	border-bottom: 4px solid #1990D8;
 }
@@ -235,10 +239,12 @@ CTA
 }
 
 .cta-card-focus .card-footer .find-teacher-input {
-	width: 259px;
+	width: 78%;
+	margin-right: 2%;
 }
 
 .cta-card-focus .card-footer .find-teacher-btn {
+	width: 20%;
 	background-color: #27438C;
 	color: #ffffff;
 	text-transform: uppercase;
