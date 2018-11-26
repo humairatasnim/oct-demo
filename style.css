@@ -279,7 +279,11 @@ Content - Homepage
 	color: #27438C;
 }
 
-.news-section a {
+.news-section h3 {
+	font-weight: bold;
+}
+
+.news-section h3 a {
 	color: #27438C;
 }
 
