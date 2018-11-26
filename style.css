@@ -491,10 +491,11 @@ footer .footer-banner {
 	margin-top: 100px;
 }
 
-.footer-banner h3 {
+.footer-banner h2 {
 	text-transform: uppercase;
 	font-weight: bold;
 	margin-bottom: 2rem;
+	font-size: 18px;
 }
 
 .footer-banner .nav-link {
